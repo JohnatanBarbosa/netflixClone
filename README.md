@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./netflixclone/images/logo.png" height="100px" alt="Netflix Clone"/>
+  <img src="./netflixclone/images/logo-netflix.png" height="100px" alt="Netflix Clone"/>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div> 
 
 <div align="center">
-  <img src="./netflixclone/images/desktop.png" height="320px"/>
+  <img src="./netflixclone/images/desktop.png" height="450px"/>
 </div>
 
 ## Recursos
