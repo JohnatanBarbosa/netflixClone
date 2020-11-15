@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./netflixclone/images/logo-netflix.png" height="100px" alt="Netflix Clone"/>
+  <img src="./netflixclone/images/netflix-logo.png" height="100px" alt="Netflix Clone"/>
 </div>
 
 <div align="center">
