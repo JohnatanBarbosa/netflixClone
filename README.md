@@ -24,11 +24,12 @@
 
 - **HTML 5** — Linguagem de Marcação utilizada para estruturar a página web
 - **CSS** — Folha de estilo utilizada para definir a aparência.
-- **JavaScript** — Linguagem de programação utilizada para modificar o DOM da página web.
+- **JavaScript** — Linguagem de programação.
+- **jQuery** - Biblioteca JavaScript utilizada no Carousel de imagens.
 
 ## Iniciando
 
-1. Clone este  reposítório usando `git clone https://github.com/michaelsribeiro/netflixClone.git
+1. Clone este  reposítório usando `git clone https://github.com/michaelsribeiro/netflixClone.git`
 2. acesse a pasta do projeto via terminal com o comando: `cd netflixclone`<br />
 
 >É necessário ter instalado o [Yarn](https://yarnpkg.com/). Consulte formas de instalar no site oficial
