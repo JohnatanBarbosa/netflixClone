@@ -4,8 +4,8 @@
 
 <div align="center">
 
-  #### Desafio do Bootcamp HTML Web Developer da Digital Innovation One.
-  O desafio tem como proposta replicar a landing page do serviço de streaming Netflix.</br>
+  #### Projeto do Bootcamp HTML Web Developer da Digital Innovation One.
+  O projeto tem como proposta replicar a landing page do serviço de streaming Netflix.</br>
   Está sendo utilizado flexbox para o posicionamento dos elementos, Owl Carousel para exibição do Carousel de imagens 
   e ainda está sendo implementado resposividade.
   
